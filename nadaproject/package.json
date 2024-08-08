@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nillion/client-web": "^0.5.0",
+    "axios": "^1.7.3"
+  }
+}
